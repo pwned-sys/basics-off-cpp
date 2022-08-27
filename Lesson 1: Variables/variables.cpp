@@ -10,7 +10,7 @@ int main()
     std::cout << "Hello My Name is " << personsname << endl;
     std:cout << " I am " << age << " Years Old" << endl;
     
-    personsname = "Brayden" 
+    personsname = "Brayden";
     std::cout << "He Liked A Paster Named " << personsname << endl; // see how i used "personsname" again, its cool isnt it? 
 
     return 0;

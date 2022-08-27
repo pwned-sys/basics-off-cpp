@@ -16,4 +16,5 @@ int main()
   phrase[0] = 'H'; // replaces the first letter of "phrase" to H. it now will print "Hlih Blih"
   std::cout << phrase; 
   
+  return 0;
 }

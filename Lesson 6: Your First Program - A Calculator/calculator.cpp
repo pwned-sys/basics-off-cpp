@@ -10,7 +10,7 @@ int main()
   std::cout << "Enter The Second Number: "
   std::cin >> num2
   
-  std::cout << "Your Numbers Added Are Equal To: " <<num1 + num2 ;
+  std::cout << "Your Numbers Added Are Equal To: " << num1 + num2 ;
 
   return 0;
 }

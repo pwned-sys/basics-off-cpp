@@ -1,7 +1,5 @@
 #include <iostream>
 
-using namespace std;
-
 int main()
 {
     string personsname = "John"; // we first define a string. in this case "personname". if we change the name "John" to something else the printed text from below will change too
